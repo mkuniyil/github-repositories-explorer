@@ -1,0 +1,26 @@
+[
+  {
+    "name": "user 1",
+    "description": "Desc 1",
+    "gitUrl": "url/1",
+    "starCount": 1
+  },
+  {
+    "name": "User 2",
+    "description": "Desc 2",
+    "gitUrl": "url/2",
+    "starCount": 2
+  },
+  {
+    "name": "User 3",
+    "description": "Desc 3",
+    "gitUrl": "url/3",
+    "starCount": 3
+  },
+  {
+    "name": "User 4",
+    "description": "Desc 4",
+    "gitUrl": "url/4",
+    "starCount": 4
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "items": [
+    {
+      "login": "user_1",
+      "repos_url": "url/1"
+    },
+    {
+      "login": "user_2",
+      "repos_url": "url/2"
+    },
+    {
+      "login": "user_3",
+      "repos_url": "url/3"
+    }
+  ],
+  "totalCount": 3
+}
